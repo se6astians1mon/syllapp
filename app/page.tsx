@@ -5,7 +5,7 @@ export default function Home() {
     
       <main className="flex flex-wrap items-center gap-2 md:flex-row">
         <h1>
-          Lis la syllabe!
+          Lis la syllabe maintenant!
         </h1>
         <Button variant="outline">Correct!</Button>
         <Button>Faux!</Button>
